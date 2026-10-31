@@ -39,7 +39,6 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
      alt="Microsoft Fabric"
      width="50"
      height="50"/>
-  <img src="https://cdn.simpleicons.org/delta/00ADD8" height="48" alt="Delta Lake" />
 </p>
 
 **🤖 AI & Machine Learning**
