@@ -31,11 +31,11 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" />
-  <img src="https://cdn.simpleicons.org/debezium/FFCC00" height="48" alt="Debezium" />
+  <img src="https://api.iconify.design/logos:debezium.svg" height="48" alt="Debezium" />
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" alt="dbt" />
+  <img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg" height="48" alt="dbt" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
-  <img src="https://cdn.simpleicons.org/microsoftfabric/742774" height="48" alt="Microsoft Fabric" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/fabric-icons@main/Icons/Fabric.svg" height="48" alt="Microsoft Fabric" />
   <img src="https://cdn.simpleicons.org/delta/00ADD8" height="48" alt="Delta Lake" />
 </p>
 
@@ -56,7 +56,7 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
 **📊 Analytics & Data Visualization**
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="48" alt="Power BI" />
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
