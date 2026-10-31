@@ -31,11 +31,11 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" />
-  <img src="https://api.iconify.design/logos:debezium.svg" height="48" alt="Debezium" />
+  <img src="https://raw.githubusercontent.com/debezium/debezium.github.io/develop/assets/images/debezium_logo.png" height="48" alt="Debezium" />
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
   <img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg" height="48" alt="dbt" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/fabric-icons@main/Icons/Fabric.svg" height="48" alt="Microsoft Fabric" />
+  <img src="https://cdn.jsdelivr.net/npm/@fabric-msft/svg-icons@8.2.0/dist/svg/fabric.svg" height="48" alt="Microsoft Fabric" />
   <img src="https://cdn.simpleicons.org/delta/00ADD8" height="48" alt="Delta Lake" />
 </p>
 
