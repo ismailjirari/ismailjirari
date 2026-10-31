@@ -95,18 +95,6 @@ Exploring modular backend architectures and microservices development with Java 
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailjirari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailjirari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismailjirari&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Currently Exploring
 
