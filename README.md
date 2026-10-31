@@ -20,31 +20,52 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
+**☁️ Cloud & Infrastructure**
 
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions" />
 </p>
 
-**Data Engineering & Databases**
+**🏗️ Data Engineering & Big Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,kafka,postgres,mysql,mongodb,redis" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debezium-FFCC00?style=flat-square&logo=debezium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoftfabric&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=deltalake&logoColor=white" />
 </p>
 
-**AI & Machine Learning**
+**🤖 AI & Machine Learning**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-**Software Development**
+**💻 Software Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,fastapi,flask,react,js,git" />
 </p>
 
-**Also working with:** Apache Spark, Airflow, Debezium, Snowflake, dbt, Databricks, Microsoft Fabric, Delta Lake, LangChain, FAISS, Hugging Face, Power BI and Streamlit.
+**📊 Analytics & Data Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
 
 ---
 
