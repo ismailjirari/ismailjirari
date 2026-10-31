@@ -35,7 +35,7 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
   <img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg" height="48" alt="dbt" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
-  <img src="https://logos.fandom.com/wiki/Special:FilePath/Microsoft_Fabric_2023.svg"
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239"
      alt="Microsoft Fabric"
      width="50"
      height="50"/>
