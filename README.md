@@ -35,7 +35,10 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
   <img src="https://raw.githubusercontent.com/dbt-labs/docs.getdbt.com/current/website/static/img/dbt-logo.svg" height="48" alt="dbt" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
-  <img src="https://raw.githubusercontent.com/jpsantoscosta/cloud-diagram-icons/main/icons/microsoft/fabric/item/fabric-lakehouse.svg" alt="Microsoft Fabric" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/sdebruyn/microsoft-fabric-icons@main/icons/Microsoft%20Fabric.svg"
+     alt="Microsoft Fabric"
+     width="50"
+     height="50"/>
   <img src="https://cdn.simpleicons.org/delta/00ADD8" height="48" alt="Delta Lake" />
 </p>
 
