@@ -17,7 +17,6 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
 - 🚀 Always building something new and learning something deeper
 
 ---
-
 ## 🛠️ Tech Stack
 
 **☁️ Cloud & Infrastructure**
@@ -29,7 +28,7 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
 **🏗️ Data Engineering & Big Data**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" />
   <img src="https://cdn.simpleicons.org/debezium/FFCC00" height="48" alt="Debezium" />
@@ -46,7 +45,6 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" alt="FAISS" />
 </p>
 
 **💻 Software Development**
@@ -62,7 +60,6 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
