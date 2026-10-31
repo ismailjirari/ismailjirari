@@ -63,45 +63,6 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
   <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
----
-
-## 🚀 Featured Projects
-
-### 🏦 Real-Time Banking Data Platform
-**Data Engineering · Streaming · Cloud Data Warehouse**
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=flat-square&logo=github)](https://github.com/ismailjirari/banking-cloud-data-real-time-project)
-
-An end-to-end banking data platform designed to capture, process, transform, and analyze operational data.
-
-`PostgreSQL` → `Debezium` → `Kafka` → `Python` → `MinIO` → `Airflow` → `Snowflake` → `dbt` → `Power BI`
-
-- CDC-based ingestion and event streaming.
-- Medallion architecture (Bronze, Silver, Gold).
-- Historical tracking with SCD Type 2.
-- Containerized infrastructure and automated validation.
-
-### 🤖 BankPulse AI
-**Generative AI · RAG · Text-to-SQL**
-
-An intelligent banking analytics application that connects natural-language questions to Snowflake analytical data.
-
-- LLM-powered SQL generation.
-- Natural-language data exploration.
-- RAG concepts and analytical context retrieval.
-- Interactive Streamlit interface.
-
-### 🎓 Smart ESITH
-**Full-Stack Development**
-
-A smart campus application combining a React frontend with a Flask backend to deliver digital campus services.
-
-### ⚙️ Java Spring Microservices
-**Backend Engineering**
-
-Exploring modular backend architectures and microservices development with Java and Spring Boot.
-
----
 
 
 ## 🤝 Let's Connect!
