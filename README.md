@@ -103,25 +103,6 @@ Exploring modular backend architectures and microservices development with Java 
 
 ---
 
-## 💼 Experience
-
-| Organization | Role | Year |
-|---|---|---|
-| Attijariwafa Bank | Cloud Data Engineering Intern | 2026 |
-| PortNet | AI Engineering Intern | 2025 |
-
----
-
-
-## 🎯 Currently Exploring
-
-- Advanced Azure & AWS Cloud Architecture
-- Microsoft Fabric & Modern Data Platforms
-- Distributed Systems & Real-Time Processing
-- MLOps, LLMOps & Production AI
-- Cloud-Native Engineering & Infrastructure Automation
-
----
 
 ## 🤝 Let's Connect!
 
