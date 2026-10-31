@@ -22,49 +22,45 @@ I enjoy working across the entire engineering lifecycle — from data ingestion 
 
 **☁️ Cloud & Infrastructure**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,githubactions" />
 </p>
 
 **🏗️ Data Engineering & Big Data**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,kafka,postgres,mysql,mongodb,redis" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debezium-FFCC00?style=flat-square&logo=debezium&logoColor=black" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoftfabric&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=deltalake&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,kafka" />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" />
+  <img src="https://cdn.simpleicons.org/debezium/FFCC00" height="48" alt="Debezium" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" alt="dbt" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
+  <img src="https://cdn.simpleicons.org/microsoftfabric/742774" height="48" alt="Microsoft Fabric" />
+  <img src="https://cdn.simpleicons.org/delta/00ADD8" height="48" alt="Delta Lake" />
 </p>
 
 **🤖 AI & Machine Learning**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/meta/0668E1" height="48" alt="FAISS" />
 </p>
 
 **💻 Software Development**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,fastapi,flask,react,js,git" />
 </p>
 
 **📊 Analytics & Data Visualization**
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=grafana" />
 </p>
 
 ---
